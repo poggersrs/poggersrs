@@ -11,7 +11,7 @@ I am a first-semester Computer Science student at UNAMA and an enthusiast of har
 - **Hardware:** Maintenance, upgrades, and troubleshooting (focus on laptop architecture)
 
 ## 📫 Contact
-- **LinkedIn:** [Acessar Perfil](https://www.linkedin.com/in/matheus-penteado-b3a4a83b3)
+- **LinkedIn:** [Matheus Penteado](https://www.linkedin.com/in/matheus-penteado-b3a4a83b3)
 - **Email:** [matheuspenteado@proton.me](mailto:matheuspenteado@proton.me)
 
 
@@ -35,7 +35,7 @@ Sou estudante do primeiro semestre de Ciência da Computação na UNAMA e entusi
 - **Hardware:** Manutenção, upgrade e troubleshooting (foco em arquitetura de notebooks)
 
 ## 📫 Contato
-- **LinkedIn:** [Acessar Perfil](https://www.linkedin.com/in/matheus-penteado-b3a4a83b3)
+- **LinkedIn:** [Matheus Penteado](https://www.linkedin.com/in/matheus-penteado-b3a4a83b3)
 - **E-mail:** [matheuspenteado@proton.me](mailto:matheuspenteado@proton.me)
 
 </details>
